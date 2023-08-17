@@ -1,7 +1,5 @@
-# Devops Practices
-DevOps practices repository
+# Devops Practice
+DevOps practice repository
 
-1. Git and GitHub
-2. Docker
-3. Github Actions and automation
-    - domain: https://devops-surge-app.surge.sh/
+1. Github Actions and automation
+    - domain: https://elec-github.surge.sh/
